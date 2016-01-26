@@ -204,7 +204,6 @@ values."
   "Initialization function for user code.
 It is called immediately after `dotspacemacs/init'.  You are free to put any
 user code."
-  (require 'multi-scratch)
   )
 
 (defun dotspacemacs/user-config ()
